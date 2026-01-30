@@ -6,7 +6,7 @@ Before you start learning DevOps concepts, pipelines, and cloud tools, there are
 
 At this stage, we are only installing essential tools. Advanced tools like Kubernetes, Terraform, or Jenkins will come later when they are truly needed.
 
-A Computer (Basic Requirement)
+## A Computer
 
 To learn DevOps properly, you need a laptop or desktop computer. DevOps involves working with servers, commands, files, and configurations; a mobile phone will not work.
 
