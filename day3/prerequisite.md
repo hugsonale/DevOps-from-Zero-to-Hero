@@ -8,7 +8,7 @@ At this stage, we are only installing essential tools. Advanced tools like Kuber
 
 A Computer (Basic Requirement)
 
-To learn DevOps properly, you need a laptop or desktop computer. DevOps involves working with servers, commands, files, and configurations — a mobile phone will not work.
+To learn DevOps properly, you need a laptop or desktop computer. DevOps involves working with servers, commands, files, and configurations; a mobile phone will not work.
 
 **Minimum recommendation:**
 * At least 4GB RAM (8GB is better)
