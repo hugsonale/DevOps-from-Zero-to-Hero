@@ -121,7 +121,7 @@ WSL allows you to run Linux directly on Windows without installing a full virtua
    ```bash
    wsl --install
 
-
+---
 
 ## Step 4: Install Ubuntu Inside WSL
 Ubuntu is the Linux distribution that will be used throughout this DevOps course.
@@ -136,6 +136,8 @@ Type the command below and press Enter:
 Wait while Ubuntu downloads and installs
 
 Ubuntu will open automatically once installation is complete
+
+---
 
 ## Step 5: Ubuntu First-Time Setup
 
@@ -156,6 +158,8 @@ After setup, you will see a prompt similar to:
 **username@computer-name:~$**
 
  Ubuntu is now ready for use. 💯
+
+ ---
 
 ### Step 6: Verify Ubuntu Is Working
 
